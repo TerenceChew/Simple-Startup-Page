@@ -1,1 +1,1 @@
-A simple page that supports e-mail subscriptions.
+A simple page that supports subscriptions by e-mail.
