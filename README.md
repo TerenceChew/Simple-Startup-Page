@@ -1,1 +1,1 @@
-A simple Startup page that you can subscribe to with an e-mail.
+A simple page that supports e-mail subscriptions.
